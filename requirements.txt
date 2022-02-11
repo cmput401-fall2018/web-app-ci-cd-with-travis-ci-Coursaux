@@ -57,7 +57,7 @@ selenium==3.141.0
 service-identity==16.0.0
 setproctitle==1.1.8
 six==1.11.0
-Twisted==16.0.0
+Twisted==22.1.0
 urllib3==1.24
 uTidylib==0.2
 virtualenv==16.0.0
